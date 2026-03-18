@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**Maan455/Maan455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning .# 💫 About Me:
+# 💫 About Me:
 Maan Kumar<br>Cybersecurity | Jaipur, Rajasthan<br>kumarmaan455@gmail.com |<br>linkedin.com/in/maan-kumar-78218a380 | <br>github.com/Maan455<br><br>I didn't choose cybersecurity because it was trending.<br>I chose it because the next big threat to businesses isn't a bad product <br>it's a bad breach. And most people don't see it coming.<br><br>That curiosity pulled me into Linux terminals, firewall configs, and <br>DDoS simulations. I picked up Python | C | C++ | SQL | Kali Linux <br>not to collect skills - but because every tool taught me how the digital<br>world holds together.<br><br>At JECRC Incubation Centre, I worked on operations and outreach,<br>supported Rising Rajasthan and Startup Pathshala, and got a front-row<br>seat to how real ventures are built. <br><br>EC-Council Certified (CSCU, ECSS) | Deloitte Cyber Job Simulation (2025).<br>Currently open to internships and collaborations in Cybersecurity |<br><br>If you're building something that matters - I'm in.<br>kumarmaan455@gmail.com
 
 
@@ -26,11 +18,4 @@ Maan Kumar<br>Cybersecurity | Jaipur, Rajasthan<br>kumarmaan455@gmail.com |<br>l
 ---
 [![](https://visitcount.itsvg.in/api?id=Maan455&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
